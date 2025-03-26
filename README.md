@@ -11,17 +11,24 @@ A simple and secure PHP-based authentication system with signup, login, and welc
 - 🎨 Clean, responsive interface
 - 🔐 Session-based authentication
 
-/
-├── authenticate.php       # Handles login authentication
-├── register.php           # Handles user registration
-├── signin.php             # Login page
-├── signup.php             # Registration page
-├── welcome.php            # Protected welcome page
-├── index.php              # Redirects to login page
-└── styles.css             # CSS styles for all pages
+## File Structure
+
+- `authenticate.php` - Handles login authentication
+- `register.php` - Handles user registration
+- `signin.php` - Login page
+- `signup.php` - Registration page
+- `welcome.php` - Protected welcome page
+- `index.php` - Redirects to login page
+- `styles.css` - CSS styles for all pages
 
 ## Requirements
 
 - PHP 7.4+
 - MySQL database
 - Web server (Apache recommended)
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Youssefkammoun595/php_tuto.git
