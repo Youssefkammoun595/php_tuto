@@ -11,15 +11,14 @@ A simple and secure PHP-based authentication system with signup, login, and welc
 - 🎨 Clean, responsive interface
 - 🔐 Session-based authentication
 
-## File Structure
 /
-├── authenticate.php # Handles login authentication
-├── register.php # Handles user registration
-├── signin.php # Login page
-├── signup.php # Registration page
-├── welcome.php # Protected welcome page
-├── index.php # Redirects to login page
-└── styles.css # CSS styles for all pages
+├── authenticate.php       # Handles login authentication
+├── register.php           # Handles user registration
+├── signin.php             # Login page
+├── signup.php             # Registration page
+├── welcome.php            # Protected welcome page
+├── index.php              # Redirects to login page
+└── styles.css             # CSS styles for all pages
 
 ## Requirements
 
