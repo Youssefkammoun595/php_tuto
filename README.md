@@ -1,4 +1,4 @@
-# PHP Authentication System
+# 🔐 PHP Authentication System - Complete Signup/Login Tutorial
 
 A simple and secure PHP-based authentication system with signup, login, and welcome pages.
 
